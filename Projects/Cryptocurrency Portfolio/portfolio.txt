@@ -1,0 +1,8 @@
+btc 0.18
+eth 2.19
+xmr 3.24
+bch 1.24
+xrp 840
+ltc 7
+
+
