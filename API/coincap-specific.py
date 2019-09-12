@@ -1,5 +1,5 @@
-# Ian Annase
-# Mastering The CoinMarketCap API with Python3
+#Lahcen-KH
+
 
 import requests
 import json
